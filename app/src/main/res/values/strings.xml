@@ -2,7 +2,10 @@
 <resources>
 
     <string name="app_name">COD Random Map</string>
-    <string name="hello_world">Test</string>
+    <string name="text"></string>
+    <string name="text_2"></string>
+    <string name="text_3"></string>
+    <string name="button_1">Play</string>
     <string name="action_settings">Settings</string>
 
 </resources>
